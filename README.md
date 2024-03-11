@@ -73,3 +73,9 @@
   
       ```
   * download [compress.html](https://raw.githubusercontent.com/newsyoga/-/main/_layouts/compress.html) in _layouts
+  * add following in all other layouts
+    ```
+    ---
+    layout: compress
+    ---
+    ```
