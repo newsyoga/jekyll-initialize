@@ -1,2 +1,4 @@
 * template
-  `jekyll new . --force`
+  ```
+  jekyll new . --force
+  ```
