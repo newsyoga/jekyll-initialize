@@ -19,3 +19,8 @@
       {% seo %}
   
       ```
+  *  add in `Gemfile` file
+      ```
+      gem 'jekyll-seo-tag'
+  
+      ```
