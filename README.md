@@ -1,0 +1,2 @@
+* template
+  `jekyll new . --force`
